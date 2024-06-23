@@ -1,0 +1,180 @@
+.logo{
+   animation-name: logo;
+   animation-duration: 6s;
+   animation-timing-function: ease-in;
+   width: 100px;
+   height: 100px;
+    box-shadow: 5px 5px 5px;
+    animation-iteration-count: infinite;
+    border-radius: 50%;
+}
+@keyframes logo {
+    0%{
+        background-color: aqua;
+    }
+    25%{background-color: blue;}
+    50%{background-color: black;}
+    75%{
+        background-color: chartreuse;
+
+    }
+    100%{
+        background-color: gold;
+    }
+    
+}
+nav ul{
+    list-style-type: none;
+
+}
+nav ul li{
+    display: inline;
+    padding: 10px;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Roboto;
+    position: relative;
+    left: 150px;
+    top: -90px;
+    
+}
+#email{
+    position: relative;
+    left: 1050px;
+    top: -139px;
+    border-radius: 10px;
+    width: 250px;
+    background-color: green;
+    font-size: 17px;
+    
+    
+}
+i{
+    left: 1020px;
+    position: relative;
+    top: -139px;
+    background-color: yellow;
+    
+}
+#submit {
+    position: relative;
+    left: 1050px;
+    top: -140px;
+    border-radius: 4px;
+    background-color: blue;
+    color: aqua;
+    font-size: large;
+    
+
+}
+#eml{
+    position: relative;
+    left: 1050px;
+    top: -120px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: green;
+    font-size: 17px;
+    
+}
+#user{
+    position: relative;
+    left: 1020px;
+    top: -118px;
+    
+
+}
+#sign-in{
+    position: relative;
+    left: 1050px;
+    top: -117px;
+    border-radius: 4px;
+    background-color: blue;
+    color: aqua;
+    font-size: large;
+}
+.remarks{
+    background-color: aqua;
+    font-size: 20px;
+    position: relative;
+    left: 700px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+.info{
+    top: 91px;
+    position: absolute;
+    font-family: cursive;
+}
+.noble{
+    font-family: Sofia;
+    font-size: 50px;
+    background-color: brown;
+    text-align: center;
+    
+
+}
+.animation{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+.merchants{
+    width: 440px;
+    font-size: 25px;
+    font-family: "Sofia", sans-serif;
+}
+.header{
+    text-align: center;
+    font-size: larger;
+    position: relative;
+    top: 100px;
+    color: chartreuse;
+    background-color: cornflowerblue;
+}
+
+footer{
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: chartreuse;
+    height: 400px;
+    
+    
+}
+footer a{
+    color: black;
+    text-decoration: non;
+    display: block;
+    column-count: 2;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    left: 440px;
+}
+footer h2{
+    position: relative;
+    text-align: center;
+
+}
+footer h3{
+    position: relative;
+    font-size: 20px;
+    width: 100%;
+
+}
+ #email:focus{
+    background-color: transparent;
+    color: white;
+}
+#eml:focus{
+    background-color: transparent;
+    color: white;
+}
+

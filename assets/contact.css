@@ -1,0 +1,127 @@
+.logo{
+    animation-name: logo;
+    animation-duration: 6s;
+    animation-timing-function: ease-in;
+    width: 100px;
+    height: 100px;
+     box-shadow: 5px 5px 5px;
+     animation-iteration-count: infinite;
+     border-radius: 50%;
+ }
+ @keyframes logo {
+     0%{
+         background-color: aqua;
+     }
+     25%{background-color: blue;}
+     50%{background-color: black;}
+     75%{
+         background-color: chartreuse;
+ 
+     }
+     100%{
+         background-color: gold;
+     }
+     
+ }
+ nav ul{
+     list-style-type: none;
+ 
+ }
+ nav ul li{
+     display: inline;
+     padding: 10px;
+ }
+ nav ul li a{
+     color: black;
+     text-decoration: none;
+     font-size: 30px;
+     font-family: Roboto;
+     position: relative;
+     left: 150px;
+     top: -90px;
+ } 
+ .first{
+    font-size: larger;
+    color: blue;
+    font-weight: 200;
+    position: relative;
+    text-align: center;
+ }
+#fName{
+    color: red;
+    
+
+}
+ #name{
+    border-radius: 10px;
+    color: blue;
+    font-size: 17px;
+ }
+ #number{
+    color: red;
+    position: relative;
+    left: 350PX;    
+    top: -28px;
+ }
+ #iNumber{
+    border-radius: 10px;
+    font-size: 17px;
+    color: blue;
+ }
+ #pNumber{
+    border-radius: 10px;
+    font-size: 17px;
+    color: blue;
+ }
+ .contact{
+    color: red;
+    position: relative;
+    left: 830PX;    
+    top: -52px;
+
+ }
+ .country{
+    color: red;
+ }
+.phone{
+    text-align: center;
+    text-decoration: none;
+}
+.email{
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+footer{
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: chartreuse;
+    height: 400px;
+    
+    
+}
+footer a{
+    color: black;
+    text-decoration: non;
+    display: block;
+    column-count: 2;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    left: 440px;
+}
+footer h2{
+    position: relative;
+    text-align: center;
+
+}
+footer h3{
+    position: relative;
+    font-size: 20px;
+    width: 100%;
+}
+body{
+    background-color: orange;
+}

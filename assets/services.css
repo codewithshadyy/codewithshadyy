@@ -1,0 +1,166 @@
+.logo{
+    animation-name: logo;
+    animation-duration: 6s;
+    animation-timing-function: ease-in;
+    width: 100px;
+    height: 100px;
+     box-shadow: 5px 5px 5px;
+     animation-iteration-count: infinite;
+     border-radius: 50%;
+ }
+ @keyframes logo {
+     0%{
+         background-color: aqua;
+     }
+     25%{background-color: blue;}
+     50%{background-color: black;}
+     75%{
+         background-color: chartreuse;
+ 
+     }
+     100%{
+         background-color: gold;
+     }
+     
+ }
+ nav ul{
+     list-style-type: none;
+ 
+ }
+ nav ul li{
+     display: inline;
+     padding: 10px;
+ }
+ nav ul li a{
+     color: black;
+     text-decoration: none;
+     font-size: 30px;
+     font-family: Roboto;
+     position: relative;
+     left: 150px;
+     top: -90px;
+ } 
+ 
+ .about-us{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: larger;
+    color: red;
+ }
+ .about-us h2{
+    color: blue;
+ }
+ .services{
+    background-color: aquamarine;
+    text-align: center;
+ }
+ .our-services{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: chocolate;
+    font-size: larger;
+    justify-content: space-between;
+ }
+ .ceo{
+    width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background-color: aliceblue;
+  font-size: large;
+  position: relative;
+  left: 200px;
+  margin: 20px;
+  height: 380PX;
+
+
+}
+.our-team{
+    position: relative;
+    text-transform: uppercase;
+    color: blue;
+    text-align: center;
+    font-size: larger;
+}
+.team{
+    background-color: orange;
+    height: 1000px;
+}
+.a-ceo{
+    width: 280px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background-color: aliceblue;
+  font-size: large;
+  position: relative;
+  left: 600px;
+  top: -395px;
+  height: 380px;
+  
+}
+.sale-manager{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: aliceblue;
+    font-size: large;
+    position: relative;
+    left: 945px;
+    top: -800px;
+    height: 380px;
+}
+.supervisor{
+    width: 280px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: aliceblue;
+    font-size: large;
+    position: relative;
+    left: 224px;
+    top: -700px;
+    height: 380px;
+
+}
+.cashiers{
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: aliceblue;
+    font-size: large;
+    position: relative;
+    left: 600px;
+    top: -1100px;
+    height: 380px;
+
+}
+footer{
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: chartreuse;
+    height: 400px;
+    
+    
+}
+footer a{
+    color: black;
+    text-decoration: non;
+    display: block;
+    column-count: 2;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    left: 440px;
+}
+footer h2{
+    position: relative;
+    text-align: center;
+
+}
+footer h3{
+    position: relative;
+    font-size: 20px;
+    width: 100%;
+
+}
+ 
