@@ -68,7 +68,7 @@ Focused on **speed, accessibility, and inclusion**.
   <a href="https://github.com/codewithshadyy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/shadrack-kipkoech-177a2b37" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/shadrack-kipkoech-177a2b37" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kipkoechshadrack10@gmail.com" target="_blank">
