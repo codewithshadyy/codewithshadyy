@@ -10,7 +10,7 @@ I love creating systems that are clean on the front and powerful at the back —
 
 ### 💡 About Me
 - 💻 I design and develop full-stack web applications using:
-  - **Frontend:** HTML, CSS, JavaScript, a bit of Bootstrap  
+  - **Frontend:** HTML, CSS, JavaScript and  a bit of Bootstrap  
   - **Backend:** Node.js, Express.js  
   - **Database:** MongoDB  
 - 🧩 I focus on building scalable, functional systems that solve *real-world problems*.  
@@ -42,7 +42,7 @@ Focused on **speed, accessibility, and inclusion**.
 
 ### 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,bootstrap, python,git,github,vscode" />
 </p>
 
 ---
