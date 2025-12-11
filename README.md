@@ -12,7 +12,7 @@ I love creating systems that are clean on the front and powerful at the back —
 - 💻 I design and develop full-stack web applications using:
   - **Frontend:** HTML, CSS, JavaScript and  a bit of Bootstrap  
   - **Backend:** Node.js, Express.js  
-  - **Database:** MongoDB  
+  - **Database:** MongoDB, MYSQL  
 - 🧩 I focus on building scalable, functional systems that solve *real-world problems*.  
 - 💬 I believe in clean, maintainable code and learning by building.  
 - 🤝 I’m **open for collaborations** — whether it’s contributing to projects, solving challenges, or exploring innovative ideas.  
