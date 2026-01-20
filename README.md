@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Shadrack  Kipkoech
+# 👋 Hey, I'm Shadrack  
 
 🚀 **Full-Stack Developer | Backend Engineer | Problem Solver**
 
@@ -11,7 +11,7 @@ I love creating systems that are clean on the front and powerful at the back —
 ### 💡 About Me
 - 💻 I design and develop full-stack web applications using:
   - **Frontend:** HTML, CSS, JavaScript and  a bit of Bootstrap  
-  - **Backend:** Node.js, Express.js  
+  - **Backend:** Node.js, Express.js , Django 
   - **Database:** MongoDB, MYSQL  
 - 🧩 I focus on building scalable, functional systems that solve *real-world problems*.  
 - 💬 I believe in clean, maintainable code and learning by building.  
