@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Shadrack  
+# 👋 Hello, I'm Shadrack  
 
 🚀 **Full-Stack Developer | Backend Engineer | Problem Solver**
 
