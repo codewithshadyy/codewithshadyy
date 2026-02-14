@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Shadrack  
 
-🚀 **Full-Stack Developer | Backend Engineer | Problem Solver**
+🚀 **Full-Stack Developer | Backend Developer | Problem Solver**
 
 I'm a passionate **full-stack developer** from **Kenya**, building meaningful digital solutions that connect people, simplify processes, and drive impact.  
 I love creating systems that are clean on the front and powerful at the back — where logic meets creativity.
