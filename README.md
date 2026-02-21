@@ -1,81 +1,136 @@
-
-# 👋 Hello, I'm Shadrack  
-
-🚀 **Full-Stack Developer | Backend Developer | Problem Solver**
-
-I'm a passionate **full-stack developer** from **Kenya**, building meaningful digital solutions that connect people, simplify processes, and drive impact.  
-I love creating systems that are clean on the front and powerful at the back — where logic meets creativity.
-
----
-
-### 💡 About Me
-- 💻 I design and develop full-stack web applications using:
-  - **Frontend:** HTML, CSS, JavaScript and  a bit of Bootstrap  
-  - **Backend:** Node.js, Express.js , Django 
-  - **Database:** MongoDB, MYSQL  
-- 🧩 I focus on building scalable, functional systems that solve *real-world problems*.  
-- 💬 I believe in clean, maintainable code and learning by building.  
-- 🤝 I’m **open for collaborations** — whether it’s contributing to projects, solving challenges, or exploring innovative ideas.  
-
----
-
-### 🏆 Featured Project
-#### 🟢 **BA-Tours Management & Booking System (https://codewithshadyy.github.io/BA-tours-rentals/)**
-A full-featured web platform for managing tours and bookings, built for a local tour company.  
-It includes both **Admin and Client Dashboards**, allowing seamless control over:
-- 🧾 Bookings and client reports  
-- 💰 Financial records  
-- 📦 Inventory management  
-- 👤 User management  
-
-🛠️ **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
-🌐 *Live demo coming soon...*  
-
----
-
-### 🔄 Currently Working On
-#### 🌍 **Low-Data App for Local Creatives (In Progress)**
-An upcoming lightweight platform designed to empower **local creatives in rural Kenya**, helping them share and sell their art — even with limited internet access.  
-Focused on **speed, accessibility, and inclusion**.
-
----
-
-### 🧰 Tech Toolbox
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,bootstrap, python,git,github,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shadrack;Backend+API+Engineer+%7C+Django+%7C+Node.js;Building+Scalable+REST+APIs;Turning+Ideas+Into+Production+Systems" />
 </p>
 
+# 👋 Hello, I'm Shadrack
+
+🚀 **Backend  Engineer | Full-Stack Developer | Problem Solver**
+
+I'm a passionate developer from Kenya building scalable backend systems and meaningful digital products.  
+I focus on writing clean, maintainable code and designing APIs that power real-world applications.
+
+I love building systems where:
+> ⚡ Performance meets scalability  
+> 🔐 Security meets architecture  
+> 🎯 Logic meets real-world impact  
+
 ---
 
-### 🌱 What I’m Exploring
-- Building optimized REST APIs  
-- Modern backend architecture & security  
-- Clean UI patterns for dashboards  
-- Deployments on Render & Vercel  
+## 💡 About Me
+
+💻 I design and develop full-stack applications using:
+
+**Frontend:** HTML, CSS, JavaScript, Bootstrap  
+**Backend:** Django, Django REST Framework, Node.js, Express.js  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+
+🧩 I specialize in building RESTful APIs and backend systems.  
+🔐 Interested in backend architecture & system security.  
+🚀 Experience deploying on Render & Vercel.  
+🤝 Open to collaborations and backend-focused roles.
 
 ---
 
-### 📊 GitHub Insights
+# 🏆 Featured Projects
+
+---
+
+## 🔵 Social Media API (Completed)
+
+A scalable RESTful API powering a social networking platform.
+
+### 🔥 Key Features:
+- User authentication & JWT authorization
+- Follow / Unfollow system
+- Posts, likes, comments
+- Profile management
+- Pagination & optimized queries
+- Secure endpoint permissions
+
+### 🛠 Tech Stack:
+Django • Django REST Framework • PostgreSQL • JWT • Gunicorn
+
+Designed with clean architecture principles and production-ready deployment.
+
+---
+
+## 🟢 AgriPrice API (In Progress)
+
+A backend system designed to track agricultural produce prices across Kenyan markets.
+
+### 🎯 Mission:
+Promote price transparency and empower buyers & farmers with real-time market data.
+
+### Planned Features:
+- Market-based price tracking
+- Historical price analysis
+- Automated email alerts for price changes
+- Threshold-based notifications
+- RESTful API architecture
+- Scalable database design
+
+### 🛠 Tech Stack:
+Django REST Framework • PostgreSQL • Email Services • Background Tasks
+
+---
+
+## 🟡 BA-Tours Management & Booking System
+
+A full-featured web platform built for a local tour company.
+
+### Features:
+- Admin & Client dashboards
+- Booking management
+- Financial tracking
+- Inventory control
+- User management system
+
+### 🛠 Tech Stack:
+HTML • CSS • JavaScript • Node.js • Express • MongoDB
+
+🌐 Live Demo:  
+https://codewithshadyy.github.io/BA-tours-rentals/
+
+---
+
+# 🧰 Tech Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+# 📊 GitHub Insights
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=codewithshadyy&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshadyy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithshadyy&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithshadyy&theme=radical" />
 </p>
 
 ---
 
-### 🌐 Let’s Connect & Collaborate
-<p align="left">
-  <a href="https://github.com/codewithshadyy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/shadrack-kipkoech-177a2b37" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kipkoechshadrack10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# 🌱 Currently Exploring
+
+- Advanced API security patterns
+- Background task processing (Celery)
+- Scalable system design
+- Clean architecture in Django
+- Production-grade deployments
 
 ---
 
-✨ *“Code with purpose, build with impact.”*
+# 🌐 Let’s Connect
+
+💼 Open for backend roles & API development collaborations  
+📩 Reach out and let’s build impactful systems together.
+
+---
+
+✨ *“Code with purpose. Build with impact.”*
