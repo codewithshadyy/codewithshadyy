@@ -55,7 +55,7 @@ Designed with clean architecture principles and production-ready deployment.
 
 ---
 
-## 🟢 AgriPrice API (In Progress)
+## 🟢 AgriPrice API (Completed)
 
 A backend system designed to track agricultural produce prices across Kenyan markets.
 
