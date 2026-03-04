@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shadrack;Backend+API+Engineer+%7C+Django+%7C+Node.js;Building+Scalable+REST+APIs;Turning+Ideas+Into+Production+Systems" />
 </p>
 
-# 👋 Hello, I'm Shadrack
+# 👋 Hello, I'm Shadrack Kipkoech
 
 🚀 **Backend  Engineer | Full-Stack Developer | Problem Solver**
 
