@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm Shadrack 
 
-🚀 **Backend  Engineer | Full-Stack Developer **
+🚀 **Backend  Engineer | Full-Stack Developer |**
 
 I'm a passionate developer from Kenya building scalable backend systems and meaningful digital products.  
 I focus on writing clean, maintainable code and designing APIs that power real-world applications.
