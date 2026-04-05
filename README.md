@@ -19,9 +19,9 @@ I love building systems where:
 
 ## 💡 About Me
 
-💻 I design and develop full-stack applications using:
+💻 I design and develop  Backend applications using:
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap  
+  
 **Backend:** Django, Django REST Framework, Node.js, Express.js  
 **Databases:** PostgreSQL, MongoDB, MySQL  
 
@@ -98,8 +98,9 @@ https://codewithshadyy.github.io/BA-tours-rentals/
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
@@ -127,6 +128,10 @@ https://codewithshadyy.github.io/BA-tours-rentals/
 ---
 
 # 🌐 Let’s Connect
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shadrackkoeh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrack-kipkoech-177a2b370)
 
 💼 Open for backend roles & API development collaborations  
 📩 Reach out and let’s build impactful systems together.
