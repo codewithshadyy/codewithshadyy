@@ -108,7 +108,7 @@ https://codewithshadyy.github.io/BA-tours-rentals/
 # 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://githu-readme-stats.vercel.app/api?username=codewithshadyy&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithshadyy&theme=radical" />
 </p>
 
 <p align="center">
