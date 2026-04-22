@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm Shadrack 
 
-🚀 **Backend  Engineer | System Designer |**
+🚀 **Backend  Engineer | System Designer |  Problem Solver**
 
 I'm a passionate developer from Kenya building scalable backend systems and meaningful digital products.  
 I focus on writing clean, maintainable code and designing APIs that power real-world applications.
