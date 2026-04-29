@@ -49,7 +49,7 @@ A scalable RESTful API powering a social networking platform.
 - Secure endpoint permissions
 
 ### 🛠 Tech Stack:
-Django • Django REST Framework • PostgreSQL • JWT • Gunicorn
+Node.js • Express.js • mongoDB • JWT 
 
 Designed with clean architecture principles and production-ready deployment.
 
@@ -75,22 +75,7 @@ Django REST Framework • PostgreSQL • Email Services • Background Tasks
 
 ---
 
-## 🟡 BA-Tours Management & Booking System
 
-A full-featured web platform built for a local tour company.
-
-### Features:
-- Admin & Client dashboards
-- Booking management
-- Financial tracking
-- Inventory control
-- User management system
-
-### 🛠 Tech Stack:
-HTML • CSS • JavaScript • Node.js • Express • MongoDB
-
-🌐 Live Demo:  
-https://codewithshadyy.github.io/BA-tours-rentals/
 
 ---
 
