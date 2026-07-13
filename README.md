@@ -7,120 +7,29 @@
 
 🚀 **Backend  Engineer | System Designer |  Problem Solver**
 
-I'm a passionate developer from Kenya building scalable backend systems and meaningful digital products.  
-I focus on writing clean, maintainable code and designing APIs that power real-world applications.
+# 💫 About Me:
+I'm a passionate developer from Kenya building scalable backend systems and meaningful digital products.<br>I focus on writing clean, maintainable code and designing APIs that power real-world applications.<br><br>I love building systems where:<br><br>⚡ Performance meets scalability<br>🔐 Security meets architecture<br>🎯 Logic meets real-world impact<br><br><br>💻 I design and develop Backend applications using:<br><br>Backend: Django, Django REST Framework, Node.js, Express.js<br>Databases: PostgreSQL, MongoDB, MySQL<br><br>🧩 I specialize in building RESTful APIs and backend systems.<br>🔐 Interested in backend architecture & system security.<br>🚀 Experience deploying on Render & Vercel.<br>🤝 Open to collaborations and backend-focused roles.
 
-I love building systems where:
-> ⚡ Performance meets scalability  
-> 🔐 Security meets architecture  
-> 🎯 Logic meets real-world impact  
 
----
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shadrack26k) 
 
-## 💡 About Me
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=codewithshadyy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=codewithshadyy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithshadyy&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-💻 I design and develop  Backend applications using:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  
-**Backend:** Django, Django REST Framework, Node.js, Express.js  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-
-🧩 I specialize in building RESTful APIs and backend systems.  
-🔐 Interested in backend architecture & system security.  
-🚀 Experience deploying on Render & Vercel.  
-🤝 Open to collaborations and backend-focused roles.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codewithshadyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=codewithshadyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🏆 Featured Projects
-
----
-
-## 🔵 Social Media API (Completed)
-
-A scalable RESTful API powering a social networking platform.
-
-### 🔥 Key Features:
-- User authentication & JWT authorization
-- Follow / Unfollow system
-- Posts, likes, comments
-- Profile management
-- Pagination & optimized queries
-- Secure endpoint permissions
-
-### 🛠 Tech Stack:
-Node.js • Express.js • mongoDB • JWT 
-
-Designed with clean architecture principles and production-ready deployment.
-
----
-
-## 🟢 AgriPrice API (Completed)
-
-A backend system designed to track agricultural produce prices across Kenyan markets.
-
-### 🎯 Mission:
-Promote price transparency and empower buyers & farmers with real-time market data.
-
-### Planned Features:
-- Market-based price tracking
-- Historical price analysis
-- Automated email alerts for price changes
-- Threshold-based notifications
-- RESTful API architecture
-- Scalable database design
-
-### 🛠 Tech Stack:
-Django REST Framework • PostgreSQL • Email Services • Background Tasks
-
----
-
-
-
----
-
-# 🧰 Tech Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-# 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithshadyy&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithshadyy&theme=radical" />
-</p>
-
----
-
-# 🌱 Currently Exploring
-
-- Advanced API security patterns
-- Background task processing (Celery)
-- Scalable system design
-- Clean architecture in Django
-- Production-grade deployments
-
----
-
-# 🌐 Let’s Connect
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shadrackkoeh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrack-kipkoech-177a2b370)
-
-💼 Open for backend roles & API development collaborations  
-📩 Reach out and let’s build impactful systems together.
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ✨ *“Code with purpose. Build with impact.”*
