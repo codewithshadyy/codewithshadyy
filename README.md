@@ -5,10 +5,10 @@
 
 # 👋 Hello, I'm Shadrack 
 
-🚀 **Backend  Engineer | System Designer |  Problem Solver**
+**Backend  Engineer | System Designer |  Problem Solver**
 
 # 💫 About Me:
-I'm a passionate developer from Kenya building scalable backend systems and meaningful digital products.<br>I focus on writing clean, maintainable code and designing APIs that power real-world applications.<br><br>I love building systems where:<br><br>⚡ Performance meets scalability<br>🔐 Security meets architecture<br>🎯 Logic meets real-world impact<br><br><br>💻 I design and develop Backend applications using:<br><br>Backend: Django, Django REST Framework, Node.js, Express.js<br>Databases: PostgreSQL, MongoDB, MySQL<br><br>🧩 I specialize in building RESTful APIs and backend systems.<br>🔐 Interested in backend architecture & system security.<br>🚀 Experience deploying on Render & Vercel.<br>🤝 Open to collaborations and backend-focused roles.
+I'm a passionate developer from Kenya building scalable backend systems and meaningful digital products.<br>I focus on writing clean, maintainable code and designing APIs that power real-world applications.<br><br>I love building systems where:<br><br>⚡ Performance meets scalability<br>🔐 Security meets architecture<br>🎯 Logic meets real-world impact<br><br><br>💻 I design and develop Backend applications using:<br><br>Backend: Django, Django REST Framework, Node.js, Express.js<br>Databases: PostgreSQL, MongoDB, MySQL<br><br> I specialize in building RESTful APIs and backend systems.<br>🔐 Interested in backend architecture & system security.<br>🚀 Experience deploying on Render & Vercel.<br>🤝 Open to collaborations and backend-focused roles.
 
 
 ## 🌐 Socials:
